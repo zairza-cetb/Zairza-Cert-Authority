@@ -2,7 +2,7 @@
 const badges = [
   {
     id: "http://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
-    title: "Skill++ Week 1",
+    title: "Skill++ Week 0",
     description: "For completing week-1 of Skill++",
     image: "https://skillspp2k25.vercel.app/assets/week0-BZc6ZB8D.png",
     criteria: "http://certify.zairza.co.in/index.html",
