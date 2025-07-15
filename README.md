@@ -6,35 +6,30 @@ This repository contains the issuer profile for all badges and certificates issu
 
 The website provides a simple interface to view and verify badges and certificates issued by Zairza.
 
-### Features
-
-- **Tabbed Navigation**: Switch between badges and certificates
-- **Grid Layout**: View all available badges and certificates
-- **Modal Details**: Click on any item to view detailed information
-- **Modular Structure**: Each badge and certificate has its own folder for additional files
-
 ### File Structure
 
 ```
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styles
-├── script.js           # Main JavaScript functionality
-├── badges.js           # Badge loading functionality
-├── certificates.js      # Certificate loading functionality
-├── badges/             # Folder containing all badges
-│   ├── badge-name/        # Individual badge folder
-│   │   └── metadata.json # Badge metadata (loaded dynamically)
-├── certificates/       # Folder containing all certificates
-│   ├── cert-name/     # Individual certificate folder
-│   │   └── metadata.json # Certificate metadata (loaded dynamically)
+├── script.js           # JavaScript functionality with static data
+├── badges/             # Folder containing badge resources
+│   ├── skillpp25wk1/   # Individual badge folder
+│   │   └── metadata.json # Badge metadata (for reference)
+│   ├── machine-learning/
+│   └── ui-ux/
+├── certificates/       # Folder containing certificate resources
+│   ├── full-stack/     # Individual certificate folder
+│   │   └── metadata.json # Certificate metadata (for reference)
+│   ├── data-science/
+│   └── cloud/
 └── assets/            # General assets like logos
 ```
 
 ### How to Add New Badges/Certificates
 
-1. Create a new folder in the appropriate directory (badges/ or certificates/)
-2. Add a metadata.json file with the badge/certificate details following the schema below
-3. The website will automatically load the new badge/certificate on the next page load
+1. Create a new folder in the appropriate directory (badges/ or certificates/) for resource organization
+2. Add the badge/certificate details directly to the static arrays in script.js
+3. Follow the existing data structure format in the script.js file
 
 #### Badge Metadata Example Schema
 
