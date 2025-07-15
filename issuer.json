@@ -1,9 +1,9 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://example.org/organization.json",
+  "id": "http://certify.zairza.co.in/issuer.json",
   "name": "Zairza",
-  "image": "assets/zairza.svg",
+  "image": "http://certify.zairza.co.in/assets/zairza.svg",
   "url": "https://zairza.co.in/",
   "email": "cet.sac.zairza@gmail.com"
 }
