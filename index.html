@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zairza Certificates & Badges</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-brand">Zairza</div>
+      <div class="nav-tabs">
+        <button class="tab-btn active" onclick="showTab('badges')">
+          Badges
+        </button>
+        <button class="tab-btn" onclick="showTab('certificates')">
+          Certificates
+        </button>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div id="badges" class="tab-content active">
+        <h2>Badges</h2>
+        <div class="grid" id="badges-grid"></div>
+      </div>
+
+      <div id="certificates" class="tab-content">
+        <h2>Certificates</h2>
+        <div class="grid" id="certificates-grid"></div>
+      </div>
+    </main>
+
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <script src="badges.js"></script>
+    <script src="certificates.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

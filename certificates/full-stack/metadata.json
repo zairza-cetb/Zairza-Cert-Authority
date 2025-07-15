@@ -1,0 +1,22 @@
+{
+  "id": "cert1",
+  "name": "Full Stack Development",
+  "description": "Certification for completing the full stack development bootcamp",
+  "image": "certificate-image.svg",
+  "criteria": {
+    "narrative": "Successfully complete all modules of the full stack development bootcamp including final project"
+  },
+  "issuer": {
+    "name": "Zairza",
+    "url": "https://zairza.in"
+  },
+  "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+  "issuedOn": "2023-04-25",
+  "expires": "2026-04-25",
+  "evidence": [
+    {
+      "name": "Final Project",
+      "url": "https://github.com/zairza/fullstack-project"
+    }
+  ]
+}
