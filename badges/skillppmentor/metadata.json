@@ -1,0 +1,19 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "http://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
+  "name": "Skill++ Mentors",
+  "description": "Mentoring in Skill++",
+  "image": "mentorBadge.png",
+  "criteria": "http://certify.zairza.co.in/index.html",
+  "tags": ["Zairza", "skill++", "Mentor"],
+  "issuer": "http://certify.zairza.co.in/issuer.json",
+  "alignment": [
+    {
+      "targetName": "Skill-Development",
+      "targetUrl": "https://skillspp.zairza.co.in/",
+      "targetDescription": "Gain expert knowledge, hands-on experience, boost your skills in various tech domains.",
+      "targetFramework": "Zairza Skills++"
+    }
+  ]
+}
