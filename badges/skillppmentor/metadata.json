@@ -4,7 +4,7 @@
   "id": "http://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
   "name": "Skill++ Mentors",
   "description": "Mentoring in Skill++",
-  "image": "mentorBadge.png",
+  "image": "https://certify.zairza.co.in/badges/skillppmentor/mentorBadge.png",
   "criteria": "http://certify.zairza.co.in/index.html",
   "tags": ["Zairza", "skill++", "Mentor"],
   "issuer": "http://certify.zairza.co.in/issuer.json",

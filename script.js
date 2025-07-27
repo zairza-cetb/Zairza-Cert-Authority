@@ -24,7 +24,7 @@ const badges = [
     description: "For Mentoring in Skill++",
     image: "badges/skillppmentor/mentorBadge.png",
     criteria: "http://certify.zairza.co.in/index.html",
-    tags: ["Zairza", "skill++"],
+    tags: ["Zairza", "skill++", "Mentorship"],
     alignment: [
       {
         targetName: "Skill-Development",
