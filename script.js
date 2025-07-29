@@ -20,11 +20,11 @@ const badges = [
   },
   {
     id: "https://certify.zairza.co.in/badges/skillppmentor/metadata.json",
-    title: "Skill++ Mentor",
-    description: "For Mentoring in Skill++",
+    title: "Skills++ Mentor",
+    description: "For Mentoring in Skills++",
     image: "badges/skillppmentor/mentorBadge.png",
     criteria: "https://certify.zairza.co.in/index.html",
-    tags: ["Zairza", "skill++", "Mentorship"],
+    tags: ["Zairza", "skills++", "Mentorship"],
     alignment: [
       {
         targetName: "Skill-Development",
