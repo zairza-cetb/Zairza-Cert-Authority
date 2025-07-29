@@ -46,7 +46,7 @@ The website provides a simple interface to view and verify badges and certificat
   "issuer": "https://example.org/organization.json",
   "alignment": [
     { "targetName": "CCSS.ELA-Literacy.RST.11-12.3",
-      "targetUrl": "http://www.corestandards.org/ELA-Literacy/RST/11-12/3",
+      "targetUrl": "https://www.corestandards.org/ELA-Literacy/RST/11-12/3",
       "targetDescription": "Follow precisely a complex multistep procedure when
       carrying out experiments, taking measurements, or performing technical
       tasks; analyze the specific results based on explanations in the text.",

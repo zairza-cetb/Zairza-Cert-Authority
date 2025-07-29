@@ -1,13 +1,13 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "http://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
+  "id": "https://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
   "name": "Skill++ Mentors",
   "description": "Mentoring in Skill++",
   "image": "https://certify.zairza.co.in/badges/skillppmentor/mentorBadge.png",
-  "criteria": "http://certify.zairza.co.in/index.html",
+  "criteria": "https://certify.zairza.co.in/index.html",
   "tags": ["Zairza", "skill++", "Mentor"],
-  "issuer": "http://certify.zairza.co.in/issuer.json",
+  "issuer": "https://certify.zairza.co.in/issuer.json",
   "alignment": [
     {
       "targetName": "Skill-Development",

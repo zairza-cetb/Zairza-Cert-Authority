@@ -1,11 +1,11 @@
 // Static badge data
 const badges = [
   {
-    id: "http://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
+    id: "https://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
     title: "Skill++ Week 0",
     description: "For completing week-1 of Skill++",
     image: "https://skillspp2k25.vercel.app/assets/week0-BZc6ZB8D.png",
-    criteria: "http://certify.zairza.co.in/index.html",
+    criteria: "https://certify.zairza.co.in/index.html",
     tags: ["Zairza", "skill++"],
     alignment: [
       {
@@ -19,11 +19,11 @@ const badges = [
     folder: "badges/skillpp25wk1",
   },
   {
-    id: "http://certify.zairza.co.in/badges/skillppmentor/metadata.json",
+    id: "https://certify.zairza.co.in/badges/skillppmentor/metadata.json",
     title: "Skill++ Mentor",
     description: "For Mentoring in Skill++",
     image: "badges/skillppmentor/mentorBadge.png",
-    criteria: "http://certify.zairza.co.in/index.html",
+    criteria: "https://certify.zairza.co.in/index.html",
     tags: ["Zairza", "skill++", "Mentorship"],
     alignment: [
       {

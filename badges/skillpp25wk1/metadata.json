@@ -1,13 +1,13 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "http://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
+  "id": "https://certify.zairza.co.in/badges/skillpp25wk1/metadata.json",
   "name": "Skill++ Week 0",
   "description": "For completing week-0 of Skill++",
   "image": "https://skillspp2k25.vercel.app/assets/week0-BZc6ZB8D.png",
-  "criteria": "http://certify.zairza.co.in/index.html",
+  "criteria": "https://certify.zairza.co.in/index.html",
   "tags": ["Zairza", "skill++"],
-  "issuer": "http://certify.zairza.co.in/issuer.json",
+  "issuer": "https://certify.zairza.co.in/issuer.json",
   "alignment": [
     {
       "targetName": "Skill-Development",
