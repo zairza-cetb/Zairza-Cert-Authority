@@ -19,6 +19,24 @@ const badges = [
     folder: "badges/skillpp25wk1",
   },
   {
+    id: "https://certify.zairza.co.in/badges/skillpp25wk2/metadata.json",
+    title: "Skill++ Week 1",
+    description: "For completing week-1 of Skill++",
+    image: "https://skills.zairza.co.in/assets/week1-CTqsX_Sa.png",
+    criteria: "https://certify.zairza.co.in/index.html",
+    tags: ["Zairza", "skills++"],
+    alignment: [
+      {
+        targetName: "Skill-Development",
+        targetUrl: "https://skillspp.zairza.co.in/",
+        targetDescription:
+          "Gain expert knowledge, hands-on experience, boost your skills in various tech domains.",
+        targetFramework: "Zairza Skills++",
+      },
+    ],
+    folder: "badges/skillpp25wk1",
+  },
+  {
     id: "https://certify.zairza.co.in/badges/skillppmentor/metadata.json",
     title: "Skills++ Mentor",
     description: "For Mentoring in Skills++",
