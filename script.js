@@ -34,7 +34,25 @@ const badges = [
         targetFramework: "Zairza Skills++",
       },
     ],
-    folder: "badges/skillpp25wk1",
+    folder: "badges/skillpp25wk3",
+  },
+  {
+    id: "https://certify.zairza.co.in/badges/skillpp25wk3/metadata.json",
+    title: "Skill++ Week 2",
+    description: "For completing week-2 of Skill++",
+    image: "https://skills.zairza.co.in/assets/week2-DWIwj_ob.png",
+    criteria: "https://certify.zairza.co.in/index.html",
+    tags: ["Zairza", "skill++"],
+    alignment: [
+      {
+        targetName: "Skill-Development",
+        targetUrl: "https://skillspp.zairza.co.in/",
+        targetDescription:
+          "Gain expert knowledge, hands-on experience, boost your skills in various tech domains.",
+        targetFramework: "Zairza Skills++",
+      },
+    ],
+    folder: "badges/skillpp25wk3",
   },
   {
     id: "https://certify.zairza.co.in/badges/skillppmentor/metadata.json",
