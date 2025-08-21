@@ -72,6 +72,24 @@ const badges = [
     ],
     folder: "badges/skillppmentor",
   },
+  {
+    id: "https://certify.zairza.co.in/badges/skillpp25wk4/metadata.json",
+    title: "Skill++ Week 3",
+    description: "For completing week-3 of Skill++",
+    image: "https://skills.zairza.co.in/assets/week3-BBSgTnN6.png",
+    criteria: "https://certify.zairza.co.in/index.html",
+    tags: ["Zairza", "skill++"],
+    alignment: [
+      {
+        targetName: "Skill-Development",
+        targetUrl: "https://skillspp.zairza.co.in/",
+        targetDescription:
+          "Gain expert knowledge, hands-on experience, boost your skills in various tech domains.",
+        targetFramework: "Zairza Skills++",
+      },
+    ],
+    folder: "badges/skillpp25wk4",
+  },
 ];
 
 // Static certificate data

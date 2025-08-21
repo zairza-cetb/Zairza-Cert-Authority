@@ -1,0 +1,19 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://certify.zairza.co.in/badges/skillpp25wk3/metadata.json",
+  "name": "Skills++ Week 3",
+  "description": "For completing week-3 of Skill++",
+  "image": "https://skills.zairza.co.in/assets/week3-BBSgTnN6.png",
+  "criteria": "https://certify.zairza.co.in/index.html",
+  "tags": ["Zairza", "skills++"],
+  "issuer": "https://certify.zairza.co.in/issuer.json",
+  "alignment": [
+    {
+      "targetName": "Skill-Development",
+      "targetUrl": "https://skillspp.zairza.co.in/",
+      "targetDescription": "Gain expert knowledge, hands-on experience, boost your skills in various tech domains.",
+      "targetFramework": "Zairza Skills++"
+    }
+  ]
+}
