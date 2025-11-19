@@ -4,7 +4,7 @@ This repository contains the issuer profile for all badges and certificates issu
 
 ## Website Structure
 
-The website provides a simple interface to view and verify badges and certificates issued by Zairza.
+The wbsite provides a simple interface to view and verify badges and certificates issued by Zairza.
 
 ### File Structure
 
